@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library/Library.pretty")(options "")(descr ""))
+  (lib (name "ESP32-DEVKITC")(type "KiCad")(uri "${KIPRJMOD}/Library/ESP32-DEVKITC")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/Library/TP4056")(options "")(descr ""))
+  (lib (name "YC0010AA")(type "KiCad")(uri "${KIPRJMOD}/Library/YC0010AA")(options "")(descr ""))
+  (lib (name "TL3365AF180QG")(type "KiCad")(uri "${KIPRJMOD}/Library/TL3365AF180QG")(options "")(descr ""))
+)
